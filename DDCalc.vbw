@@ -1,0 +1,7 @@
+DDCalculator = 22, 22, 572, 370, , 44, 44, 572, 396, C
+frmCalculator = 0, 0, 550, 348, C, 66, 66, 328, 418, C
+Common = 110, 110, 660, 458, C
+frmAbout = 132, 132, 438, 480, C, 0, 0, 306, 348, C
+MSubclass = 132, 132, 427, 480, C
+ISubclass = 154, 154, 449, 502, C
+GSubclass = 22, 22, 317, 370, C
